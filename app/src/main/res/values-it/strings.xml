@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Wazaby</string>
+    <string name="about">Su</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="connexion">Collegamento</string>
+    <string name="inscript">Registro</string>
+    <string name="passforget">Hai dimenticato la password?</string>
+    <string name="internet">Connessione ad internet Bad</string>
+    <string name="send">Mandare</string>
+    <string name="email_error">Inserire un indirizzo email valido</string>
+    <string name="password_error1">Password errata</string>
+    <string name="password_error2">La password deve essere di almeno 8 caratteri</string>
+</resources>

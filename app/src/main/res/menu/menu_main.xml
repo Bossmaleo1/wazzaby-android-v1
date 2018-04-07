@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/profil"
+        android:title="@string/profil" />
+
+    <item
+        android:id="@+id/param"
+        android:title="@string/param" />
+
+    <item
+        android:id="@+id/about"
+        android:title="@string/about" />
+
+
+    <item
+        android:id="@+id/deco"
+        android:title="@string/deco" />
+
+    <item
+        android:id="@+id/notification"
+        android:icon="@drawable/ic_notifications_black_48dp"
+        android:title="Cart"
+        app:showAsAction="always"/>
+
+
+
+</menu>

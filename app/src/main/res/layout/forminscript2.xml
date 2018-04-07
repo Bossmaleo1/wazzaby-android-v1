@@ -1,0 +1,216 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinatorLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".connInscript.forminscript1">
+
+    <android.support.design.widget.AppBarLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:background="?attr/colorPrimary"
+            app:layout_scrollFlags="scroll|enterAlways"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+    </android.support.design.widget.AppBarLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <ImageView
+            android:id="@+id/label"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:paddingTop="10dp"
+            android:src="@drawable/wazaby"
+            android:layout_centerHorizontal="true"
+            />
+
+
+        <View
+            android:id="@+id/view1"
+            android:layout_below="@+id/label"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@color/colorPrimary"
+            />
+
+
+        <RelativeLayout
+            android:id="@+id/block"
+            android:layout_below="@+id/view1"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:padding="10dp"
+            >
+
+
+
+            <LinearLayout
+                android:id="@+id/nom_block"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="10dp"
+                >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_account_circle_black_36dp"
+                    android:layout_gravity="center"
+                    android:tint="@color/colorPrimary"
+                    />
+
+
+
+                <EditText
+                    android:id="@+id/nom"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/inscript_nom"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/prenom_block"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/nom_block"
+                android:orientation="horizontal"
+                android:layout_marginTop="10dp"
+                >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_account_circle_black_36dp"
+                    android:layout_gravity="center"
+                    android:tint="@color/colorPrimary"
+                    />
+
+
+
+                <EditText
+                    android:id="@+id/prenom"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="@string/inscript_prenom"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/naissance_block"
+                android:layout_below="@+id/prenom_block"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="10dp"
+                >
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/ic_event_note_black_36dp"
+                    android:tint="@color/colorPrimary"
+                    android:layout_gravity="center"
+                    />
+
+
+
+                <!--LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    >
+                </LinearLayout-->
+
+                <Button
+                    android:id="@+id/naissance2"
+                    android:layout_width="0dp"
+                    android:background="@color/colorPrimary"
+                    android:layout_height="wrap_content"
+                    android:layout_weight=".5"
+                    android:clickable="false"
+                    android:text="@string/inscript_naissance"
+                    android:textColor="@android:color/white"
+                    />
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/sexe_block"
+                android:layout_below="@+id/naissance_block"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="10dp"
+                >
+
+                <RadioGroup
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    >
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Masculin"/>
+
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="30dp"
+                        android:text="Feminin"/>
+
+                </RadioGroup>
+
+
+            </LinearLayout>
+
+
+
+            <android.support.v7.widget.AppCompatButton
+                android:id="@+id/send"
+                android:layout_below="@+id/sexe_block"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/inscript_next"
+                android:background="@color/colorPrimary"
+                android:layout_marginTop="10dp"
+                android:textColor="@android:color/white"
+                />
+
+
+
+        </RelativeLayout>
+
+        <View
+            android:id="@+id/view2"
+            android:layout_below="@+id/block"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:background="@color/colorPrimary"
+            android:layout_marginTop="10dp"
+            />
+
+
+
+
+    </RelativeLayout>
+
+
+
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        app:popupTheme="@style/AppTheme2"
+        app:theme="@style/ToolbarColoredBackArrow"
+        android:fitsSystemWindows="true"
+        >
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+            <!--ImageView
+                android:id="@+id/arrow_back"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:layout_centerVertical="true"
+                android:layout_marginTop="3dp"
+                android:src="@drawable/ic_arrow_back_black_48dp"
+                android:tint="@android:color/white"
+                /-->
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/imageToolBar"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_centerVertical="true"
+                android:layout_marginTop="3dp"
+                android:src="@drawable/kobe"
+                android:layout_toEndOf="@id/arrow_back"
+                android:layout_toRightOf="@+id/arrow_back"
+                />
+
+            <TextView
+                android:id="@+id/toolbarText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_toEndOf="@id/imageToolBar"
+                android:layout_toRightOf="@+id/imageToolBar"
+                android:text="Your text"
+                />
+
+            <TextView
+                android:id="@+id/datetime"
+                android:layout_below="@+id/toolbarText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="En ligne"
+                android:layout_marginStart="10dp"
+                android:textSize="10dp"
+                android:layout_toEndOf="@id/imageToolBar"
+                android:layout_toRightOf="@+id/imageToolBar"
+                />
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.Toolbar>
+
+    <RelativeLayout
+        android:id="@+id/block"
+        android:layout_below="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/my_recycler_view"
+            android:layout_marginTop="5dp"
+            android:background="@android:color/white"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior"
+            android:scrollbars="vertical"
+            />
+
+
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/white"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/rendermessagearea"
+            android:padding="10dp"
+            android:layout_weight="1"
+            >
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/rendermessagearea1"
+                android:padding="5dp"
+                >
+                <!--EditText
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:background="@android:color/white"
+                    android:inputType="textMultiLine"
+                    android:overScrollMode="always"
+                    android:scrollbarStyle="insideInset"
+                    android:scrollbars="vertical"
+                    android:lines="1"
+                    android:scrollHorizontally="false" /-->
+
+                <android.support.design.widget.TextInputLayout
+
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <EditText
+                        android:id="@+id/editvalue"
+                        android:gravity="top|left"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@android:color/white"
+                        />
+
+                </android.support.design.widget.TextInputLayout>
+
+        </LinearLayout>
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/sender"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="5"
+            android:padding="4dp"
+            android:tint="@color/colorPrimary"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/ic_send_black_48dp" />
+    </LinearLayout>
+
+
+
+</RelativeLayout>

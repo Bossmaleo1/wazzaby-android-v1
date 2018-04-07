@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Wazaby</string>
+    <string name="about">À propos</string>
+    <string name="email">E-mail</string>
+    <string name="password">пароль</string>
+    <string name="connexion">войти</string>
+    <string name="inscript">регистр</string>
+    <string name="passforget">Забыли пароль</string>
+    <string name="internet">Плохое подключение к интернету</string>
+    <string name="send">послать</string>
+    <string name="email_error">Введите действительный адрес электронной почты</string>
+    <string name="password_error1">Неправильный пароль</string>
+    <string name="password_error2">Пароль должен быть не менее 8 символов</string>
+</resources>

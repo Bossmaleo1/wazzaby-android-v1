@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Wazaby</string>
+    <string name="about">من نحن</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="password">كلمة السر</string>
+    <string name="connexion">تسجيل الدخول</string>
+    <string name="inscript">تسجيل</string>
+    <string name="passforget">نسيت كلمة المرور</string>
+    <string name="internet">اتصال إنترنت سيء</string>
+    <string name="send">إرسال</string>
+    <string name="email_error">أدخل بريدا إلكترونيا صالحا</string>
+    <string name="password_error1">كلمة مرور غير صالحة</string>
+    <string name="password_error2">يجب أن تتكون كلمة المرور من 8 أحرف على الأقل</string>
+</resources>

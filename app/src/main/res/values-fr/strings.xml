@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Wazaby</string>
+    <string name="about">À propos</string>
+    <string name="email">E-mail</string>
+    <string name="password">Mot de passe</string>
+    <string name="connexion">Connexion</string>
+    <string name="inscript">S\'Inscrire</string>
+    <string name="passforget">Mot de Passe oublié?</string>
+    <string name="internet">Mauvaise connexion internet</string>
+    <string name="send">Envoyer</string>
+    <string name="email_error">Entrer un email valide</string>
+    <string name="password_error1">Mauvais mot de passe</string>
+    <string name="password_error2">Le mot de passe doit faire au moins 8 caractères</string>
+    <!--Les nouveaux names-->
+    <string name="inscript1_1">Inscription 1/2</string>
+    <string name="inscript1_2">Inscription 2/2</string>
+    <string name="inscript_prenom">Votre Prenom</string>
+    <string name="inscript_nom">Votre Nom</string>
+    <string name="inscript_naissance">Date de naissance</string>
+    <string name="inscript_next">SUIV.</string>
+    <string name="inscript_email">Votre e-mail</string>
+    <string name="inscript_password">Votre mot de passe</string>
+    <string name="inscript_confirm_password">Confirmer votre mot de passe</string>
+    <string name="inscript_upload">UPLOADER</string>
+    <string name="inscript_uploading">UPLOADING PHOTO</string>
+    <string name="inscript_finish">TERMINER</string>
+    <string name="title_prob">Problématique</string>
+    <string name="title_accueil">Accueil</string>
+
+    <string name="profil">Profil</string>
+    <string name="param">Paramètres</string>
+    <string name="help">Aide</string>
+    <string name="deco">Déconnexion</string>
+
+
+    <string-array name="nav_drawer_labels">
+        <item>Accueil</item>
+        <item>Problématique</item>
+    </string-array>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+
+    <!--Les erreurs de réseaux-->
+    <string name="error_volley_error">Une erreur viens de survenir</string>
+    <string name="error_volley_servererror">Une erreur au niveau du serveur viens de survenir</string>
+    <string name="error_volley_noconnectionerror">Problème de connexion, veuillez revoir votre connexion</string>
+    <string name="error_volley_timeouterror">Votre delai d\'attente à exepirer, veuillez revoir votre connexion</string>
+    <string name="try_again">Réessayer</string>
+
+
+    <string name="convertpublic_inters">Interventions</string>
+    <string name="convertpublic_inter">Interventions</string>
+    <string name="commentaire">Commentaire</string>
+    <string name="commentaires">Commentaires</string>
+
+    <string name="chargement">En cours de chargement...</string>
+    <string name="comment_share">Votre commentaire à été publier avec succès</string>
+
+    <string name="hint1">Rechercher une catégorie de problématique</string>
+    <string name="hint">Rechercher une problématique</string>
+    <string name="ajouter">Ajouter Problématique</string>
+
+
+</resources>

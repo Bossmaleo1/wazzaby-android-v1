@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Wazaby</string>
+    <string name="about">およそ</string>
+    <string name="email">電子メール</string>
+    <string name="password">パスワード</string>
+    <string name="connexion">接続</string>
+    <string name="inscript">登録</string>
+    <string name="passforget">パスワードを忘れましたか？</string>
+    <string name="internet">悪いインターネット接続</string>
+    <string name="send">送ります</string>
+    <string name="email_error">有効なメールアドレスを入力します。</string>
+    <string name="password_error1">間違ったパスワード</string>
+    <string name="password_error2">パスワードは8文字以上でなければなりません</string>
+</resources>

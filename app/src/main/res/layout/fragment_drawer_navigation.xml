@@ -1,0 +1,86 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@android:color/white">
+
+
+    <RelativeLayout
+        android:id="@+id/nav_header_container"
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:layout_alignParentTop="true"
+        android:background="@color/colorPrimary">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/ic_profile"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_centerInParent="true"
+            android:src="@drawable/ic_profile" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/welcome_msg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+
+            style="@style/Base.TextAppearance.AppCompat.Headline"
+            android:layout_centerHorizontal="true"
+            android:gravity="center"
+            android:layout_below="@+id/ic_profile"
+            />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/mySwitch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/nav_header_container"
+        >
+
+        <android.support.v7.widget.SwitchCompat
+            android:id="@+id/compatSwitch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            />
+
+
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/view"
+        android:layout_below="@+id/mySwitch"
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:layout_marginLeft="4dip"
+        android:layout_marginRight="4dip"
+        android:background="?android:attr/dividerHorizontal"
+        />
+
+
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/drawerList"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/view"
+        android:layout_gravity="center"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        android:scrollbars="vertical"
+        />
+
+    <View
+        android:id="@+id/viewbis"
+        android:layout_below="@+id/drawerList"
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:layout_marginLeft="4dip"
+        android:layout_marginRight="4dip"
+        android:background="?android:attr/dividerHorizontal"
+        />
+
+
+
+</RelativeLayout>

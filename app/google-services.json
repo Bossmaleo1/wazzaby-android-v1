@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "436743374644",
+    "firebase_url": "https://wazaby-f88ff.firebaseio.com",
+    "project_id": "wazaby-f88ff",
+    "storage_bucket": "wazaby-f88ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436743374644:android:28c7282770fc8196",
+        "android_client_info": {
+          "package_name": "com.wazaby.android.wazaby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436743374644-udi67lfhmphj46gjjrv5p7b5prc89r4d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfOhp_yzUFhsbd7TQRnZZ8PPqpfqez4jk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
