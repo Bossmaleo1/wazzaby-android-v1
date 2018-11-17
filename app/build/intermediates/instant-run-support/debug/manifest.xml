@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wazaby.android.wazaby"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="26.0.0-alpha1" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme1" >
+        <activity android:name="com.wazaby.android.wazaby.connInscript.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.wazaby.android.wazaby.connInscript.Connexion"
+            android:theme="@style/AppTheme2" >
+        </activity>
+        <activity
+            android:name="com.wazaby.android.wazaby.connInscript.About"
+            android:theme="@style/AppTheme2" >
+        </activity>
+        <activity
+            android:name="com.wazaby.android.wazaby.connInscript.Passforget"
+            android:theme="@style/AppTheme2" >
+        </activity>
+        <activity
+            android:name="com.wazaby.android.wazaby.appviews.Home"
+            android:theme="@style/AppTheme2" >
+        </activity>
+        <activity
+            android:name="com.wazaby.android.wazaby.connInscript.forminscript1"
+            android:theme="@style/AppTheme2" >
+        </activity>
+        <activity
+            android:name="com.wazaby.android.wazaby.connInscript.forminscript2"
+            android:theme="@style/AppTheme2" >
+        </activity>
+        <activity
+            android:name="com.wazaby.android.wazaby.connInscript.forminscript3"
+            android:theme="@style/AppTheme2" >
+        </activity>
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <provider
+            android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:authorities="com.wazaby.android.wazaby.com.android.tools.fd.runtime.InstantRunContentProvider"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

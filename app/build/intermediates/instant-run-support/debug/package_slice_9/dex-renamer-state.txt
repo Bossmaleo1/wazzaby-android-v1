@@ -1,0 +1,4 @@
+#Sat Apr 07 17:20:51 CEST 2018
+base.0=/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dexMerger/debug/161
+renamed.0=classes.dex
+file.0=/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dexMerger/debug/161/classes.dex

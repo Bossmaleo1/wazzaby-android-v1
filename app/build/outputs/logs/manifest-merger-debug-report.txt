@@ -1,0 +1,560 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:2:1-98:12
+INJECTED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:2:1-98:12
+INJECTED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:2:1-98:12
+INJECTED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:2:1-98:12
+MERGED from [com.android.support:design:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f74c5ee8542c45a104e1dd050fe448ff/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/42c16acc1c38e8f486a16d6116ac816d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5c8cb0c3fdd44dafdc94a022ce1d7e23/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/71625abb1a1d1acdd3dbe223b047b153/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/77017b5f92596c4044fecff20c6721a9/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/554dd0b91f88ce26af22a3f19e0fde17/AndroidManifest.xml:17:1-28:12
+MERGED from [de.hdodenhof:circleimageview:1.2.1] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/circleimageview-1.2.1.aar/0cd899b1699a9c32bd00ce059e8b66f5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/a5858f3f8705088d3ad8eb11c6b27034/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/ef98c894abb3a16915599c092614a272/AndroidManifest.xml:17:1-37:12
+MERGED from [com.android.volley:volley:1.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/c1a73772a500278cd4e5ffc18e2352c8/AndroidManifest.xml:2:1-11:12
+MERGED from [me.relex:circleindicator:1.2.2] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/circleindicator-1.2.2.aar/8528d83fa84ec48487a681c9c964c9c1/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/c051f2e11d8e3c67a1f2d18813668f13/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/5901a4fd3e6aa2451e717027507fbca0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/90a09d168f1ad6266f3fc0d59ab4b435/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/18058596bc84aa4143d1457f0d00f42d/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2e5e27fe87edc25717ab2002d3948e85/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/6865ae432e192c12c2a62ddd6c4b8796/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/0399316961868fbd0ea8f65108aeddfb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cc6b0f5aeba8d1b4e6c7d6be5d820b76/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/347364c7b68ce2d65fad46e8cfd984e5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7e4e06c23a69c2a92fa3ef746af477a9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e5c58718d127e8ceea1ca1573d89ceb9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/66a2148601b36a8a130ae3bf687f9061/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9d2b0a916426b9919d772616a79877bc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3126615454b9ad15d98ff1fcd8c8880e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/f565ab52c48b7277bc2b5b73b270f10a/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/d98a75eba15d907dedd6cef4151af9b6/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/41deec2e8220417b51064f17e026505d/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/b543fb831ae67017b75f982c839dbc04/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/4b56a7a7e2e8adb18640e5c29e40bfbd/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4b3a68b3fea0691ac6510a336f0a862e/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/3b241a753074c64bf65c32a0ff2d012d/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/22a7395bde8004df8cc955cb3af296c4/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/a655087f862e7f18b48ec75f2d9cfd80/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/8cf5170263ac6ed9b0a515eb77f3fe73/AndroidManifest.xml:2:1-6:12
+INJECTED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:2:1-98:12
+INJECTED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:2:1-98:12
+INJECTED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:2:1-98:12
+	package
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:2:1-98:12
+		INJECTED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:2:1-98:12
+		INJECTED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2e5e27fe87edc25717ab2002d3948e85/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2e5e27fe87edc25717ab2002d3948e85/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:9:5-96:19
+MERGED from [com.android.support:design:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f74c5ee8542c45a104e1dd050fe448ff/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f74c5ee8542c45a104e1dd050fe448ff/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/42c16acc1c38e8f486a16d6116ac816d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/42c16acc1c38e8f486a16d6116ac816d/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5c8cb0c3fdd44dafdc94a022ce1d7e23/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5c8cb0c3fdd44dafdc94a022ce1d7e23/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/71625abb1a1d1acdd3dbe223b047b153/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/71625abb1a1d1acdd3dbe223b047b153/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/77017b5f92596c4044fecff20c6721a9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/77017b5f92596c4044fecff20c6721a9/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/554dd0b91f88ce26af22a3f19e0fde17/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/554dd0b91f88ce26af22a3f19e0fde17/AndroidManifest.xml:22:5-26:19
+MERGED from [de.hdodenhof:circleimageview:1.2.1] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/circleimageview-1.2.1.aar/0cd899b1699a9c32bd00ce059e8b66f5/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:1.2.1] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/circleimageview-1.2.1.aar/0cd899b1699a9c32bd00ce059e8b66f5/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/a5858f3f8705088d3ad8eb11c6b27034/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/a5858f3f8705088d3ad8eb11c6b27034/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/ef98c894abb3a16915599c092614a272/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/ef98c894abb3a16915599c092614a272/AndroidManifest.xml:22:5-35:19
+MERGED from [com.android.volley:volley:1.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/c1a73772a500278cd4e5ffc18e2352c8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/c1a73772a500278cd4e5ffc18e2352c8/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/c051f2e11d8e3c67a1f2d18813668f13/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/c051f2e11d8e3c67a1f2d18813668f13/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/5901a4fd3e6aa2451e717027507fbca0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/5901a4fd3e6aa2451e717027507fbca0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/90a09d168f1ad6266f3fc0d59ab4b435/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/90a09d168f1ad6266f3fc0d59ab4b435/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/18058596bc84aa4143d1457f0d00f42d/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/18058596bc84aa4143d1457f0d00f42d/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2e5e27fe87edc25717ab2002d3948e85/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2e5e27fe87edc25717ab2002d3948e85/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/6865ae432e192c12c2a62ddd6c4b8796/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/6865ae432e192c12c2a62ddd6c4b8796/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/0399316961868fbd0ea8f65108aeddfb/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/0399316961868fbd0ea8f65108aeddfb/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cc6b0f5aeba8d1b4e6c7d6be5d820b76/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cc6b0f5aeba8d1b4e6c7d6be5d820b76/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/347364c7b68ce2d65fad46e8cfd984e5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/347364c7b68ce2d65fad46e8cfd984e5/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7e4e06c23a69c2a92fa3ef746af477a9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7e4e06c23a69c2a92fa3ef746af477a9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e5c58718d127e8ceea1ca1573d89ceb9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e5c58718d127e8ceea1ca1573d89ceb9/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/66a2148601b36a8a130ae3bf687f9061/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/66a2148601b36a8a130ae3bf687f9061/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9d2b0a916426b9919d772616a79877bc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9d2b0a916426b9919d772616a79877bc/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3126615454b9ad15d98ff1fcd8c8880e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3126615454b9ad15d98ff1fcd8c8880e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/f565ab52c48b7277bc2b5b73b270f10a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/f565ab52c48b7277bc2b5b73b270f10a/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/d98a75eba15d907dedd6cef4151af9b6/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/d98a75eba15d907dedd6cef4151af9b6/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/41deec2e8220417b51064f17e026505d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/41deec2e8220417b51064f17e026505d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/b543fb831ae67017b75f982c839dbc04/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/b543fb831ae67017b75f982c839dbc04/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/4b56a7a7e2e8adb18640e5c29e40bfbd/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/4b56a7a7e2e8adb18640e5c29e40bfbd/AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4b3a68b3fea0691ac6510a336f0a862e/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4b3a68b3fea0691ac6510a336f0a862e/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/3b241a753074c64bf65c32a0ff2d012d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/3b241a753074c64bf65c32a0ff2d012d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/22a7395bde8004df8cc955cb3af296c4/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/22a7395bde8004df8cc955cb3af296c4/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/a655087f862e7f18b48ec75f2d9cfd80/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/a655087f862e7f18b48ec75f2d9cfd80/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/8cf5170263ac6ed9b0a515eb77f3fe73/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/8cf5170263ac6ed9b0a515eb77f3fe73/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:15:9-41
+activity#com.wazaby.android.wazaby.connInscript.MainActivity
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:16:19-60
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.wazaby.android.wazaby.connInscript.Connexion
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:24:9-26:20
+	android:theme
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:24:58-90
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:24:19-57
+activity#com.wazaby.android.wazaby.connInscript.About
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:28:9-30:20
+	android:theme
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:28:54-86
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:28:19-53
+activity#com.wazaby.android.wazaby.connInscript.Passforget
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:32:9-34:20
+	android:theme
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:32:59-91
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:32:19-58
+activity#com.wazaby.android.wazaby.appviews.Home
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:36:9-38:20
+	android:theme
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:36:49-81
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:36:19-48
+activity#com.wazaby.android.wazaby.appviews.CategorieProblematique
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:40:9-42:20
+	android:theme
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:40:67-99
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:40:19-66
+activity#com.wazaby.android.wazaby.connInscript.forminscript1
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:44:9-46:20
+	android:theme
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:44:62-94
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:44:19-61
+activity#com.wazaby.android.wazaby.connInscript.forminscript2
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:48:9-50:20
+	android:theme
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:48:62-94
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:48:19-61
+activity#com.wazaby.android.wazaby.connInscript.forminscript3
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:52:9-54:20
+	android:theme
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:52:62-94
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:52:19-61
+activity#com.wazaby.android.wazaby.connInscript.UploadImage
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:56:9-58:20
+	android:theme
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:56:60-92
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:56:19-59
+activity#com.wazaby.android.wazaby.appviews.UserOnline
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:60:9-62:20
+	android:theme
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:60:55-87
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:60:19-54
+activity#com.wazaby.android.wazaby.appviews.Sharepublicconversation
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:64:9-66:20
+	android:theme
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:64:68-100
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:64:19-67
+activity#com.wazaby.android.wazaby.appviews.MessageConstitution
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:68:9-70:20
+	android:theme
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:68:64-96
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:68:19-63
+activity#com.wazaby.android.wazaby.appviews.AfficheCommentairePublic
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:72:9-74:20
+	android:theme
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:72:69-101
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:72:19-68
+activity#com.wazaby.android.wazaby.appviews.AddProblematique
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:76:9-78:20
+	android:theme
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:76:61-93
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:76:19-60
+activity#com.wazaby.android.wazaby.appviews.AddCatProblematique
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:80:9-82:20
+	android:theme
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:80:64-96
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:80:19-63
+service#com.wazaby.android.wazaby.service.MyFirebaseMessagingService
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:84:9-88:19
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:84:18-68
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:85:13-87:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:86:17-78
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:86:25-75
+service#com.wazaby.android.wazaby.service.MyFirebaseInstanceIDService
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:90:9-94:19
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:90:18-69
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:91:13-93:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:92:17-80
+	android:name
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml:92:25-77
+uses-sdk
+INJECTED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml
+INJECTED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f74c5ee8542c45a104e1dd050fe448ff/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f74c5ee8542c45a104e1dd050fe448ff/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/42c16acc1c38e8f486a16d6116ac816d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/42c16acc1c38e8f486a16d6116ac816d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5c8cb0c3fdd44dafdc94a022ce1d7e23/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5c8cb0c3fdd44dafdc94a022ce1d7e23/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/71625abb1a1d1acdd3dbe223b047b153/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-location-11.8.0.aar/71625abb1a1d1acdd3dbe223b047b153/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/77017b5f92596c4044fecff20c6721a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/77017b5f92596c4044fecff20c6721a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/554dd0b91f88ce26af22a3f19e0fde17/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/554dd0b91f88ce26af22a3f19e0fde17/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:1.2.1] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/circleimageview-1.2.1.aar/0cd899b1699a9c32bd00ce059e8b66f5/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:1.2.1] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/circleimageview-1.2.1.aar/0cd899b1699a9c32bd00ce059e8b66f5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/a5858f3f8705088d3ad8eb11c6b27034/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-core-11.8.0.aar/a5858f3f8705088d3ad8eb11c6b27034/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/ef98c894abb3a16915599c092614a272/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/ef98c894abb3a16915599c092614a272/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/c1a73772a500278cd4e5ffc18e2352c8/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/volley-1.1.0.aar/c1a73772a500278cd4e5ffc18e2352c8/AndroidManifest.xml:7:5-43
+MERGED from [me.relex:circleindicator:1.2.2] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/circleindicator-1.2.2.aar/8528d83fa84ec48487a681c9c964c9c1/AndroidManifest.xml:8:5-10:41
+MERGED from [me.relex:circleindicator:1.2.2] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/circleindicator-1.2.2.aar/8528d83fa84ec48487a681c9c964c9c1/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/c051f2e11d8e3c67a1f2d18813668f13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/c051f2e11d8e3c67a1f2d18813668f13/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/5901a4fd3e6aa2451e717027507fbca0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/5901a4fd3e6aa2451e717027507fbca0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/90a09d168f1ad6266f3fc0d59ab4b435/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/90a09d168f1ad6266f3fc0d59ab4b435/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/18058596bc84aa4143d1457f0d00f42d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/18058596bc84aa4143d1457f0d00f42d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2e5e27fe87edc25717ab2002d3948e85/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2e5e27fe87edc25717ab2002d3948e85/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/6865ae432e192c12c2a62ddd6c4b8796/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/6865ae432e192c12c2a62ddd6c4b8796/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/0399316961868fbd0ea8f65108aeddfb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.8.0.aar/0399316961868fbd0ea8f65108aeddfb/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cc6b0f5aeba8d1b4e6c7d6be5d820b76/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cc6b0f5aeba8d1b4e6c7d6be5d820b76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/347364c7b68ce2d65fad46e8cfd984e5/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/347364c7b68ce2d65fad46e8cfd984e5/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7e4e06c23a69c2a92fa3ef746af477a9/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7e4e06c23a69c2a92fa3ef746af477a9/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e5c58718d127e8ceea1ca1573d89ceb9/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e5c58718d127e8ceea1ca1573d89ceb9/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/66a2148601b36a8a130ae3bf687f9061/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/66a2148601b36a8a130ae3bf687f9061/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9d2b0a916426b9919d772616a79877bc/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9d2b0a916426b9919d772616a79877bc/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3126615454b9ad15d98ff1fcd8c8880e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3126615454b9ad15d98ff1fcd8c8880e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/f565ab52c48b7277bc2b5b73b270f10a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-location-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-location-license-11.8.0.aar/f565ab52c48b7277bc2b5b73b270f10a/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/d98a75eba15d907dedd6cef4151af9b6/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-messaging-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-license-11.8.0.aar/d98a75eba15d907dedd6cef4151af9b6/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/41deec2e8220417b51064f17e026505d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.8.0.aar/41deec2e8220417b51064f17e026505d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/b543fb831ae67017b75f982c839dbc04/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.8.0.aar/b543fb831ae67017b75f982c839dbc04/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/4b56a7a7e2e8adb18640e5c29e40bfbd/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.8.0.aar/4b56a7a7e2e8adb18640e5c29e40bfbd/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4b3a68b3fea0691ac6510a336f0a862e/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4b3a68b3fea0691ac6510a336f0a862e/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/3b241a753074c64bf65c32a0ff2d012d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.8.0.aar/3b241a753074c64bf65c32a0ff2d012d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/22a7395bde8004df8cc955cb3af296c4/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.8.0.aar/22a7395bde8004df8cc955cb3af296c4/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/a655087f862e7f18b48ec75f2d9cfd80/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.8.0.aar/a655087f862e7f18b48ec75f2d9cfd80/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/8cf5170263ac6ed9b0a515eb77f3fe73/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.8.0.aar/8cf5170263ac6ed9b0a515eb77f3fe73/AndroidManifest.xml:4:5-43
+INJECTED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml
+INJECTED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f74c5ee8542c45a104e1dd050fe448ff/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml
+		ADDED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f74c5ee8542c45a104e1dd050fe448ff/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/42c16acc1c38e8f486a16d6116ac816d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/42c16acc1c38e8f486a16d6116ac816d/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/77017b5f92596c4044fecff20c6721a9/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/77017b5f92596c4044fecff20c6721a9/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/554dd0b91f88ce26af22a3f19e0fde17/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/554dd0b91f88ce26af22a3f19e0fde17/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/c051f2e11d8e3c67a1f2d18813668f13/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/c051f2e11d8e3c67a1f2d18813668f13/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/5901a4fd3e6aa2451e717027507fbca0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/5901a4fd3e6aa2451e717027507fbca0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/90a09d168f1ad6266f3fc0d59ab4b435/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/90a09d168f1ad6266f3fc0d59ab4b435/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/347364c7b68ce2d65fad46e8cfd984e5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/347364c7b68ce2d65fad46e8cfd984e5/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7e4e06c23a69c2a92fa3ef746af477a9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/7e4e06c23a69c2a92fa3ef746af477a9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e5c58718d127e8ceea1ca1573d89ceb9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/e5c58718d127e8ceea1ca1573d89ceb9/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/66a2148601b36a8a130ae3bf687f9061/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/66a2148601b36a8a130ae3bf687f9061/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9d2b0a916426b9919d772616a79877bc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/9d2b0a916426b9919d772616a79877bc/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3126615454b9ad15d98ff1fcd8c8880e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3126615454b9ad15d98ff1fcd8c8880e/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f74c5ee8542c45a104e1dd050fe448ff/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/f74c5ee8542c45a104e1dd050fe448ff/AndroidManifest.xml:27:13-51
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/ef98c894abb3a16915599c092614a272/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/ef98c894abb3a16915599c092614a272/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-messaging-11.8.0.aar/ef98c894abb3a16915599c092614a272/AndroidManifest.xml:29:13-82
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/18058596bc84aa4143d1457f0d00f42d/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/18058596bc84aa4143d1457f0d00f42d/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/18058596bc84aa4143d1457f0d00f42d/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/18058596bc84aa4143d1457f0d00f42d/AndroidManifest.xml:24:13-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2e5e27fe87edc25717ab2002d3948e85/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2e5e27fe87edc25717ab2002d3948e85/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2e5e27fe87edc25717ab2002d3948e85/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2e5e27fe87edc25717ab2002d3948e85/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2e5e27fe87edc25717ab2002d3948e85/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2e5e27fe87edc25717ab2002d3948e85/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:34:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2e5e27fe87edc25717ab2002d3948e85/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.8.0.aar/2e5e27fe87edc25717ab2002d3948e85/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.8.0.aar/341d08a18e7e8bdba1f4ec96d702d198/AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:29:9-63
+permission#com.wazaby.android.wazaby.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:32:22-76
+uses-permission#com.wazaby.android.wazaby.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:36:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:39:13-43:29
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.wazaby.android.wazaby
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:42:27-58
+category#com.wazaby.android.wazaby
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.8.0.aar/641dc582ed64ad5fcb17849845fe0692/AndroidManifest.xml:51:13-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/6865ae432e192c12c2a62ddd6c4b8796/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/6865ae432e192c12c2a62ddd6c4b8796/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/6865ae432e192c12c2a62ddd6c4b8796/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/6865ae432e192c12c2a62ddd6c4b8796/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/firebase-common-11.8.0.aar/6865ae432e192c12c2a62ddd6c4b8796/AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cc6b0f5aeba8d1b4e6c7d6be5d820b76/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cc6b0f5aeba8d1b4e6c7d6be5d820b76/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/cc6b0f5aeba8d1b4e6c7d6be5d820b76/AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4b3a68b3fea0691ac6510a336f0a862e/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4b3a68b3fea0691ac6510a336f0a862e/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/bossmaleo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4b3a68b3fea0691ac6510a336f0a862e/AndroidManifest.xml:26:13-58

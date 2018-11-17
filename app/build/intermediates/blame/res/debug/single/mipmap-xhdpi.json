@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]

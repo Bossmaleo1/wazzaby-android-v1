@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_help_black_18dp.png",
+        "source": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/drawable-hdpi/ic_help_black_18dp.png"
+    },
+    {
+        "merged": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/res/merged/debug/drawable-hdpi/wazaby.png",
+        "source": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/drawable-hdpi/wazaby.png"
+    },
+    {
+        "merged": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_lock_black_48dp.png",
+        "source": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/drawable-hdpi/ic_lock_black_48dp.png"
+    },
+    {
+        "merged": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_email_black_48dp.png",
+        "source": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/drawable-hdpi/ic_email_black_48dp.png"
+    }
+]

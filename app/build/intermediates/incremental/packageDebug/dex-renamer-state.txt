@@ -1,0 +1,7 @@
+#Thu Sep 14 10:06:10 CEST 2017
+base.0=/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5d87946c381d77a04a82019e659ccc6febd0d041
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8c22e2e1130bc95537253ab9acadd5042097f506/classes.dex
+base.1=/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8c22e2e1130bc95537253ab9acadd5042097f506
+file.0=/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5d87946c381d77a04a82019e659ccc6febd0d041/classes.dex

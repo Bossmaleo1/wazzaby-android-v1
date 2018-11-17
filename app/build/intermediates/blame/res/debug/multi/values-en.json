@@ -1,0 +1,393 @@
+[
+    {
+        "outputFile": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en/values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/values-en/colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 45,
+                        "endOffset": 194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 46,
+                    "endOffset": 143
+                },
+                "from": {
+                    "file": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/values-en/colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 46,
+                        "endOffset": 97
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 148,
+                    "endColumn": 50,
+                    "endOffset": 194
+                },
+                "from": {
+                    "file": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/values-en/colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 50,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 199,
+                    "endColumn": 45,
+                    "endOffset": 240
+                },
+                "from": {
+                    "file": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/values-en/colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 45,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 245,
+                    "endColumn": 49,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/values-en/colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endColumn": 49,
+                        "endOffset": 290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 39,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 60,
+                        "endColumn": 39,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endColumn": 43,
+                    "endOffset": 374
+                },
+                "from": {
+                    "file": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 43,
+                        "endOffset": 55
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 379,
+                    "endColumn": 44,
+                    "endOffset": 419
+                },
+                "from": {
+                    "file": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 187,
+                        "endColumn": 44,
+                        "endOffset": 227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 424,
+                    "endColumn": 40,
+                    "endOffset": 460
+                },
+                "from": {
+                    "file": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 40,
+                        "endOffset": 136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 465,
+                    "endColumn": 67,
+                    "endOffset": 528
+                },
+                "from": {
+                    "file": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 439,
+                        "endColumn": 67,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 533,
+                    "endColumn": 45,
+                    "endOffset": 574
+                },
+                "from": {
+                    "file": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 232,
+                        "endColumn": 45,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 579,
+                    "endColumn": 61,
+                    "endOffset": 636
+                },
+                "from": {
+                    "file": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 339,
+                        "endColumn": 61,
+                        "endOffset": 396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 641,
+                    "endColumn": 60,
+                    "endOffset": 697
+                },
+                "from": {
+                    "file": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 60,
+                        "endOffset": 334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 702,
+                    "endColumn": 45,
+                    "endOffset": 743
+                },
+                "from": {
+                    "file": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 141,
+                        "endColumn": 45,
+                        "endOffset": 182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 748,
+                    "endColumn": 56,
+                    "endOffset": 800
+                },
+                "from": {
+                    "file": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endColumn": 56,
+                        "endOffset": 559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 805,
+                    "endColumn": 91,
+                    "endOffset": 892
+                },
+                "from": {
+                    "file": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 564,
+                        "endColumn": 91,
+                        "endOffset": 651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 897,
+                    "endColumn": 37,
+                    "endOffset": 930
+                },
+                "from": {
+                    "file": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 401,
+                        "endColumn": 37,
+                        "endOffset": 434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 935,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 1244
+                },
+                "from": {
+                    "file": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/values-en/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 54,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1249,
+                    "endLine": 30,
+                    "endColumn": 12,
+                    "endOffset": 1563
+                },
+                "from": {
+                    "file": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/values-en/styles.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 369,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1568,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 2053
+                },
+                "from": {
+                    "file": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/values-en/styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1174
+                    }
+                }
+            }
+        ]
+    }
+]

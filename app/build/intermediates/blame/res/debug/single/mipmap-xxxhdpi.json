@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/wazaby.png",
+        "source": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/mipmap-xxxhdpi/wazaby.png"
+    },
+    {
+        "merged": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

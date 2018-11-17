@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en/values-en.xml",
+            "map": [
+                {
+                    "source": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/values-en/strings.xml",
+                    "from": {
+                        "startLines": "2,1,5,3,10,6,8,7,4,11,12,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "60,16,187,100,439,232,339,278,141,507,564,401",
+                        "endColumns": "39,43,44,40,67,45,61,60,45,56,91,37",
+                        "endOffsets": "95,55,227,136,502,273,396,334,182,559,651,434"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "295,335,379,424,465,533,579,641,702,748,805,897",
+                        "endColumns": "39,43,44,40,67,45,61,60,45,56,91,37",
+                        "endOffsets": "330,374,419,460,528,574,636,697,743,800,892,930"
+                    }
+                },
+                {
+                    "source": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/values-en/styles.xml",
+                    "from": {
+                        "startLines": "3,10,17",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "54,369,689",
+                        "endLines": "8,15,24",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "363,683,1174"
+                    },
+                    "to": {
+                        "startLines": "19,25,31",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "935,1249,1568",
+                        "endLines": "24,30,38",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "1244,1563,2053"
+                    }
+                },
+                {
+                    "source": "/home/bossmaleo/AndroidStudioProjects/Wazaby/app/src/main/res/values-en/colors.xml",
+                    "from": {
+                        "startLines": "4,2,3,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "153,55,102,199,245",
+                        "endColumns": "45,46,50,45,49",
+                        "endOffsets": "194,97,148,240,290"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,101,148,199,245",
+                        "endColumns": "45,46,50,45,49",
+                        "endOffsets": "96,143,194,240,290"
+                    }
+                }
+            ]
+        }
+    ]
+}

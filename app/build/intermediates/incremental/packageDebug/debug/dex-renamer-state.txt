@@ -1,0 +1,19 @@
+#Sat Apr 07 17:20:55 CEST 2018
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dexMerger/debug/167
+base.4=/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dexMerger/debug/168
+base.3=/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dexMerger/debug/164
+base.2=/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dexMerger/debug/165
+base.1=/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dexMerger/debug/163
+base.0=/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dexMerger/debug/166
+file.5=/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dexMerger/debug/167/classes.dex
+file.4=/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dexMerger/debug/168/classes.dex
+file.3=/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dexMerger/debug/164/classes.dex
+file.2=/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dexMerger/debug/165/classes.dex
+file.1=/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dexMerger/debug/163/classes.dex
+file.0=/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dexMerger/debug/166/classes.dex

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/bossmaleo/.android/build-cache/6d8a157d977753a520084e2be1f36f4f9d66cfc1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e9426550555a5e926d4e7069db250ff203936914/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bossmaleo/.android/build-cache/6629c2bb668b0a6759245c7f467defffd00ead0e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ed48477ca31bc6efa4f0450ec639063cb3bca4c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bossmaleo/.android/build-cache/6bed172d427ce1d3d4ed95eaef512709dd04da62/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3107b9ae6764e0cd14d75c8ca5f5e5a9a797537a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bossmaleo/.android/build-cache/d0bea8622a0ecd70c5e365c390587783a6982a1f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6cd8db416dee4f20a5c86fe6b19771ab526783e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8c22e2e1130bc95537253ab9acadd5042097f506/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bossmaleo/.android/build-cache/dd5e9201db784f25c7569a62852a15e01df5ba2e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4ad8a784d7ae2064b9ce57aa00719f6249826e79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bossmaleo/.android/build-cache/6444840c9ef99a5d7c2aaf6336473dcee21f72fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0a8c335a3f60b23cf0481c38b790e06022f22c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bossmaleo/.android/build-cache/cbeaa0511df6a8741915ca83883c069635470ac4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1ccb3b0b0563e6649ccc7c1d373e67354f5f4152/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9a0a8d6cb6efd67d8b6d9d088ae73c4ac0ca8a41">
+        <dex dex="/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5d87946c381d77a04a82019e659ccc6febd0d041/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bossmaleo/.android/build-cache/083472dd6c6965c3b4fceee0b2892871c2381d03/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_566b41a6dea68c9ff79600ce297c336e87d07684/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bossmaleo/.android/build-cache/24998a2a52e6037535877e91352aee10412d545e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f15ebd487c447209f1a8a1be15ff0028e3d14e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bossmaleo/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_3cd63fd63b1aa582c6f83c918eb2f751cbb2a415/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bossmaleo/.android/build-cache/69d9dd7723be6025efaecb287276ad72b961aa39/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c4ac18ae5761076128056ebdfe50c2fdd21b3e4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bossmaleo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_f6fb33b8c22db4cc252b52770a1d4a715dd03e79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bossmaleo/.android/build-cache/d3c1b28e268a3584f0ddc3ae7b621262ed712fa5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f9d87f66889be510af0104f8f3923461fc5da90a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bossmaleo/.android/build-cache/ba49f319885541b3e9676fac7327b9348576c1eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_58e4c86b57009ae6415d3e846f101c586d749d35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bossmaleo/.android/build-cache/4853605fbf7b0bf8856a2f5ef058533e8c75f4a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/bossmaleo/AndroidStudioProjects/Wazaby/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_394d7fa3ae47cd6d93b7a01e0af7304d78793829/classes.dex" />
+    </item>
+
+</items>

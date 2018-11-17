@@ -96,6 +96,7 @@ public class Home extends AppCompatActivity implements FragmentDrawer.FragmentDr
         a.setTitle(database.getLastProbLibelle());
         a.setDisplayShowHomeEnabled(true);
         a.setDisplayHomeAsUpEnabled(true);
+        a.setTitle("Wazaby");
 
         drawerFragment = (FragmentDrawer)getSupportFragmentManager().findFragmentById(R.id.fragment_navigation_drawer);
         drawerFragment.setUp(R.id.fragment_navigation_drawer, (DrawerLayout) findViewById(R.id.drawer_layout),toolbar);
